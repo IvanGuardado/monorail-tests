@@ -1,6 +1,6 @@
 {
   "name": "monorail-test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Repository for testing purposes",
   "main": "index.js",
   "scripts": {
